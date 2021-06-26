@@ -1,0 +1,76 @@
+#ansh{
+
+    background-image: url('../images/9.jpg') ; 
+    height: 100%;
+    width: 100%;
+    background-size: cover; 
+    
+    
+}
+#siddhi{
+    color: azure;
+    padding-top: 200px;
+    padding-left: 105px;
+
+}
+#anshtyagi{
+    color: white;
+    padding-left: 110px;
+}
+
+#atv{
+ 
+  
+  height: 400px;
+  margin-top: 100px;
+}
+    
+    
+
+a{
+    color: white;
+}
+#ats{
+
+    background-image: url(../images/6.jpg);
+    background-size: cover;
+}
+#ate{
+
+    height: 300px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 180px;
+}
+#ata{
+
+    height: 300px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 180px;
+}
+#st{
+
+    margin-bottom: 400px;
+}
+
+#footer{
+
+    background-color: black;
+    width: 100%;
+
+}
+
+#footerText{
+
+   color: white;
+  margin-left: 5rem;
+
+}
+
+#ft{
+
+/* text-align: right; */
+margin-left:300px;
+
+}
