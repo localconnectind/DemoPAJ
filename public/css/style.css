@@ -68,9 +68,16 @@ a{
 
 }
 
-#ft{
+.fl{
 
 /* text-align: right; */
-margin-left:300px;
+/* margin-left:500px; */
 
+}
+
+.iclass{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 40px;
+    width: 40px;
 }
